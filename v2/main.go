@@ -3,5 +3,5 @@ package propragomodule
 import "fmt"
 
 func HiFromRemote() {
-    fmt.Println("Hi from remote module!")
+    fmt.Println("Hi from remote module v2!")
 }
